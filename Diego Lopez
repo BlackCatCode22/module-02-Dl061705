@@ -1,0 +1,20 @@
+void myFunction() {
+    cout << "hello world",
+}
+
+int  main () {
+    myFunction() // call the function
+    return 0;
+}
+
+// outputs "hello world"
+
+int a = 100 
+int b = 100
+int c = a - b; // c will be 0
+
+
+int myNum = 4;
+myNum = 2
+cout <<myNum
+
